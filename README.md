@@ -1,5 +1,7 @@
 # Instaveri
 <br>Yüzlerce Instagram hesabınız mı var? Tüm hesapların tüm verilerini CURL PHP yöntemi ile alın.
+<br>Proje tarafımdan geliştirilmiş ve tüm kodlar tarafımdan yazılmış olup, topluluğun faydalanması için ücretsiz yayınlanmıştır.
+<br>
 
 <b>Senaryo</b>
 <br>Bir müşterinize ait birden fazla instagram hesabını yönetiyorsunuz. 
