@@ -12,7 +12,14 @@
 <br>Raporunuzu EXCEL formatında sunmanız gerekiyor.
 
 <b>Nasıl Çalışır?</b>
-<br>Localhost Apache sunucusu kurulduk
+<br>Localhostta Apache sunucusu kurun.
+<br>Paylaştığım kodları yerel diske taşıyın.
+<br>Apache sunucu çalıştırın.
+<br>Kurulumda belirtilen adreslere ulaşın.
+<br>Instagram hesap listenizi SQL adrese yükleyin.
+<br>Instagram hesaplarınızın tarama işlemini başlatın.
+<br>Taranan verileri kontrol edip, SQL tabloya yazılması için onaylayın.
+<br>SQL verileri EXCEL formatında kaydedin.
 
 <b>Gerekenler</b>
 <br>Temel SQL, PHP, EXCEL bilgisi
