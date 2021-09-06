@@ -1,6 +1,7 @@
-# Instaveri
+# Instaveri 2.0
 <br>Yüzlerce Instagram hesabınız mı var? Tüm hesapların tüm verilerini CURL PHP yöntemi ile alın.
 <br>Proje tarafımdan geliştirilmiş ve tüm kodlar tarafımdan yazılmış olup, topluluğun faydalanması için ücretsiz yayınlanmıştır.
+<br>Tüm kodları yeniden düzenleme kararı aldım, daha yalın ve geliştirmeye katkı sağlayacak 2.0 sürümünü tamamlayıp paylaşacağım.
 <br>
 
 <b>Senaryo</b>
