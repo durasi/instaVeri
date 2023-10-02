@@ -12,3 +12,5 @@
 <br>Raporunuzu EXCEL formatında sunmanız gerekiyor.
 
 <br>Kodları paylaşınca anlatacağım... Biraz daha zaman...
+
+# Artık bir sofin eklentisidir.
